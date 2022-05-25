@@ -35,6 +35,10 @@ A collection of Azure AD Dynamic Security Group - Rules for your reference.
 
 ```
 (user.usageLocation -eq "US")
+
+OR
+
+(user.usageLocation -eq "Japan")
 ```
 
 ### **Example of a dynamic security group - rules**
